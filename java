@@ -44,3 +44,8 @@ class geeksforgeeks {
 poiuy
 lkjh
 mnbhg
+lion
+tiger
+nano
+lopiu
+git 
