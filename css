@@ -30,14 +30,4 @@ class geeksforgeeks {
         return s;
     }
 
-    // The Driver code
-    public static void main(String[] args)
-    {
-        int N = 11;
-
-        // Prints the sum of even-indexed numbers
-        System.out.println(
-            "Even sum of fibonacci series till number " + N
-            + " is: " + +Fib_Even_Sum(N));
-    }
-}
+    
