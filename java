@@ -41,12 +41,4 @@ class geeksforgeeks {
             + " is: " + +Fib_Even_Sum(N));
     }
 }
-poiuy
-lkjh
-mnbhg
-lion
-tiger
-nano
-lopiu
-git
-button 
+java

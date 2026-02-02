@@ -1,4 +1,4 @@
-/ Java Program to find even sum of
+// Java Program to find even sum of
 // fibonacci Series Till number N
 import java.io.*;
 
@@ -41,3 +41,4 @@ class geeksforgeeks {
             + " is: " + +Fib_Even_Sum(N));
     }
 }
+c--
